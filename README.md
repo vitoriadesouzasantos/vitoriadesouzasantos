@@ -3,10 +3,9 @@ Olá 👋, eu sou a Vitória!
 <div display="flex">
 
 <p align="left"><br>
-  👨‍🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <a href="http://www.digitalschool.com.br/faculdade/">Bandtec</a> <br><br>
-  🏦 Estagiária na área de <strong>Análise e Desenvolvimento de Sistemas</strong> na <a href="https://www.linx.com.br/">Linx</a><br><br>  
-  💻 Habilidades: <strong>HTML, CSS, Java e MySql</strong><br><br> 
-  🚀 Atualmente, estou estudando Java e ReactJs<br><br> 
+  👨‍🎓 Graduada em <strong>Análise e Desenvolvimento de Sistemas</a> <br><br>
+  🏦 Desenvolvedora Backend<br><br>  
+  💻 Habilidades: <strong>HTML, CSS, Java, MySql, Golang</strong><br><br> 
   
 </p>
 <div display="flex">
